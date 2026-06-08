@@ -129,4 +129,20 @@ Este projeto se justifica ao propor uma solução técnica viável e moderna que
 * O vídeo descritivo (*pitch*) obrigatório terá a duração exata ou máxima de 5 minutos.
 
 ---
-*Termo de Abertura do Projeto — Fynix \| SENAI Jandira — 2026*
+
+## 12. Repositórios do Projeto
+
+| Repositório | Link |
+|-------------|------|
+| 🖥️ Frontend | [Delicia-Gelada-FRONT_END](https://github.com/Daniele-SS/Delicia-Gelada-FRONT_END) |
+| ⚙️ Backend | [Delicia-Gelada-BACK_END](https://github.com/Jean090504/Delicia-Gelada-BACK_END) |
+| 🗄️ Banco de Dados | [Delicia-Gelada-BANCO_DE_DADOS](https://github.com/Nephyro/Delicia-Gelada-BANCO_DE_DADOS) |
+
+---
+
+## 13. Vídeo Pitch
+
+> 🔜 Link será adicionado após gravação e publicação — prazo: 19/06/2026.
+
+---
+*Termo de Abertura do Projeto — Fynix | SENAI Jandira — 2026*
