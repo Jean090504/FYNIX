@@ -134,8 +134,8 @@ Este projeto se justifica ao propor uma solução técnica viável e moderna que
 
 | Repositório | Link |
 |-------------|------|
-| 🖥️ Frontend | [Delicia-Gelada-FRONT_END](https://github.com/Daniele-SS/Delicia-Gelada-FRONT_END) |
-| ⚙️ Backend | [Delicia-Gelada-BACK_END](https://github.com/Jean090504/Delicia-Gelada-BACK_END) |
+| 🖥️ Front-End | [Delicia-Gelada-FRONT_END](https://github.com/Daniele-SS/Delicia-Gelada-FRONT_END) |
+| ⚙️ Back-End | [Delicia-Gelada-BACK_END](https://github.com/Jean090504/Delicia-Gelada-BACK_END) |
 | 🗄️ Banco de Dados | [Delicia-Gelada-BANCO_DE_DADOS](https://github.com/Nephyro/Delicia-Gelada-BANCO_DE_DADOS) |
 
 ---
