@@ -75,7 +75,7 @@ Este projeto se justifica ao propor uma solução técnica viável e moderna que
 
 ## 7. Equipe de Desenvolvimento
 
-* **Daniele Silva Santos** — Desenvolvedora Full Stack / Responsável pelo Frontend
+* **Daniele Silva Santos** — Product Owner (PO)
 * **Jean Costa Alvez da Silva** — Desenvolvedor Back-end / PO
 * **Anderson Ribeiro Soares** — Administrador de Banco de Dados (DBA) / Desenvolvedor
 * **May Martins de Andrade** — Desenvolvedora / Analista de Qualidade e Documentação
