@@ -76,10 +76,10 @@ Este projeto se justifica ao propor uma solução técnica viável e moderna que
 ## 7. Equipe de Desenvolvimento
 
 * [Daniele Silva Santos](https://github.com/Daniele-SS) — Product Owner (PO)
-* [Jean Costa Alvez da Silva](https://github.com/Jean090504) — Desenvolvedor Back-end / PO
+* [Jean Costa Alvez da Silva](https://github.com/Jean090504) — Desenvolvedor Back-End / PO
 * [Anderson Ribeiro Soares](https://github.com/Nephyro) — Administrador de Banco de Dados (DBA) / Desenvolvedor
 * [May Martins de Andrade](https://github.com/maymandrade) — Desenvolvedora / Analista de Qualidade e Documentação
-* [Diego de Pádua Bezerra de Lemos](https://github.com/DiegodelPadua) — Desenvolvedor Front-end / Analista de Requisitos
+* [Diego de Pádua Bezerra de Lemos](https://github.com/DiegodelPadua) — Desenvolvedor Front-End / Analista de Requisitos
 
 ---
 
@@ -87,8 +87,8 @@ Este projeto se justifica ao propor uma solução técnica viável e moderna que
 
 | Camada | Tecnologia Selecionada |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | Node.js |
+| **Front-End** | Tailwind, HTML5, CSS3, JavaScript |
+| **Back-End** | Node.js |
 | **Banco de Dados** | MySQL |
 | **Versionamento** | Git + GitHub |
 
