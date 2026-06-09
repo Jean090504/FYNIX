@@ -78,7 +78,7 @@ Este projeto se justifica ao propor uma solução técnica viável e moderna que
 * [Daniele Silva Santos](https://github.com/Daniele-SS) — Product Owner (PO)
 * [Jean Costa Alvez da Silva](https://github.com/Jean090504) — Desenvolvedor Back-End / PO
 * [Anderson Ribeiro Soares](https://github.com/Nephyro) — Administrador de Banco de Dados (DBA) / Desenvolvedor
-* [May Martins de Andrade](https://github.com/maymandrade) — Desenvolvedora / Analista de Qualidade e Documentação
+* [Mayara Martins de Andrade](https://github.com/maymandrade) — Desenvolvedora / Analista de Qualidade e Documentação
 * [Diego de Pádua Bezerra de Lemos](https://github.com/DiegodelPadua) — Desenvolvedor Front-End / Analista de Requisitos
 
 ---
