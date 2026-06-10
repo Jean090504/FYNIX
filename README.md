@@ -1,4 +1,5 @@
-﻿# Delícia Gelada — Termo de Abertura do Projeto (TAP)
+﻿![](./img/logo.jpeg)
+# Delícia Gelada — Termo de Abertura do Projeto (TAP)
 
 > **Projeto Integrado** — SENAI Jandira | Curso Técnico em Desenvolvimento de Sistemas  
 > **Empresa / Equipe:** Fynix
