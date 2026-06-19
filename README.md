@@ -143,7 +143,5 @@ Este projeto se justifica ao propor uma solução técnica viável e moderna que
 
 ## 13. Vídeo Pitch
 | 📽️ | (https://vimeo.com/1202789667?share=copy) |
-> 🔜 Link será adicionado após gravação e publicação — prazo: 19/06/2026.
-
 ---
 *Termo de Abertura do Projeto — Fynix | SENAI Jandira — 2026*
